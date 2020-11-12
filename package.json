@@ -1,0 +1,24 @@
+{
+  "name": "JDQiandao-Github-Actions",
+  "version": "1.0.0",
+  "description": "京东签到",
+  "main": "jd_sign.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jiji262/JDQiandao-Github-Actions.git"
+  },
+  "author": "ZhiHua",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jiji262/JDQiandao-Github-Actions/issues"
+  },
+  "homepage": "https://github.com/jiji262/JDQiandao-Github-Actions",
+  "dependencies": {
+    "download": "^8.0.0",
+    "request": "^2.88.2",
+    "request-promise": "^4.2.6"
+  }
+}
